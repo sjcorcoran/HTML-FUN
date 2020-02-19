@@ -1,0 +1,86 @@
+/* Tag Selectors: */
+body {
+    background-color: orangered
+}        
+#featured{
+background-color: blueviolet;
+color: white;
+text-decoration: wavy;
+padding: 20px;
+border:25px dotted orangered;
+margin: 0px auto;
+}
+h3{
+    text-align-last: ;
+    color: purple;
+    text-decoration: wavy, underline;
+}
+h4{
+    text-align-last:;
+    color: purple;
+    text-decoration: wavy, underline;   
+}
+footer{
+    font-weight: bold;
+}
+table{
+    border-color: slateblue;
+    font-weight: bold;
+    border-radius: 20px;
+    border-image-width: 20px;
+    color: blue
+    margin: 20x;
+    height: 20px;
+}
+.highlight{
+    font-size: larger;
+    color: blue;
+    font-family: monospace;
+    font-style: italic;
+    font-weight: bold;
+}
+.a{
+    font-weight: bolder;
+    color:yellow;
+    border: 2px ridge blue;
+    text-align: center;
+    font-size: xx-large; 
+}
+.f{
+    text-align: left;
+    color: blue
+    font-style: unset;
+    font-weight: 600;
+    vertical-align: ;
+    text-shadow: black;
+    text-decoration: wavy; 
+    text-decoration: underline;
+    border: 15px double pink;
+}
+h3 span{
+    font-weight: 900;
+    font-style: italic;
+    color: yellow;
+}
+.q{
+    font-weight: bold;
+    color: rebeccapurple;
+    text-decoration: wavy;
+    font-family: fantasy;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    height: 10;
+  }
+.w{
+    color: purple;
+    text-decoration: double;
+    text-shadow: aqua;
+    font-size: larger;
+    font-family: monospace;
+    border: 15px groove rgb(4, 68, 4)
+
+}
